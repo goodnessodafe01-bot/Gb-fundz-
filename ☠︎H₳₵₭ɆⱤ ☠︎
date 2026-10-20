@@ -1,0 +1,16 @@
+{
+  "botName": "GBFUNDZ",
+  "ownerName": "GBFUNDZ",
+  "prefix": ".",
+  "version": "1.0.0",
+  "mode": "public",
+  "autoReply": true,
+  "readMessages": false,
+  "typing": true,
+  "language": "en",
+  "timezone": "Africa/Lagos",
+  "welcomeMessage": "Welcome to GBFUNDZ WhatsApp Bot! 🤖",
+  "goodbyeMessage": "Goodbye! Thanks for using GBFUNDZ 💚",
+  "menuTitle": "GBFUNDZ BOT MENU",
+  "footer": "Powered by GBFUNDZ"
+}
